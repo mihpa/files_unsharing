@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_unsharing</id>
+	<name>Share Files - unsharing</name>
+	<description>List of all your shared files and folders to quickly unshare them one by one.</description>
+	<version>0.43</version>
+	<licence>AGPL</licence>
+	<author>Andrzej Michalec, Pavel Mihajluk</author>
+	<require>6</require>
+</info>
